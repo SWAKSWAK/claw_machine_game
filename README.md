@@ -6,4 +6,5 @@
 
 https://programmers.co.kr/learn/courses/30/lessons/64061
 
+for문과 if문 활용.
 ArrayList 와 stack 을 공부한 뒤 나중에 다시 풀어볼것.
